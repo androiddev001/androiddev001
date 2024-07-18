@@ -6,6 +6,8 @@
 
 
 - 🌱 I’m currently learning **JetPackCompose,AdMob,Map,DHilt,Database,Firebase and MlKit**
+  
+- 🈸 Created international apps(**Minirent, Medland, Green Pioneers, Book press, PayOff**)
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdujabborahmadjonov/](https://github.com/abdujabborahmadjonov/)
 
